@@ -145,5 +145,7 @@ There are several ways to do this; here is one possibility using the attached fi
         C-B  2.0  0.02746405 3.972536 0.0468351
         
 Optional Challenge questions:
+
 3) Were the same tests used in Graphpad Prism and R?
+
 4) Is there a simpler way in R to list multiple replicated values, instead of writing out "A", "A", "A",... etc?
