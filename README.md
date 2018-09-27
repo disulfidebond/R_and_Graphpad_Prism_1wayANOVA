@@ -13,7 +13,7 @@ ANOVA is short for ANalysis Of VAriance, and tests if the difference in variance
         2,1,4
         4,2,3
 
-### One-Way ANOVA using Graphpad® Prism©
+### One-Way ANOVA using Graphpad® Prism®
 1) Open Graphpad Prism.  Select columns, and then select "Enter Replicate Values, stacked into columns".
 2) Copy and paste, or enter the values manually into the spreadsheet that opens.
 3) Click "Analyze", then select "One-Way Anova (and nonparametric)"
