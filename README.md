@@ -1,0 +1,2 @@
+# R_and_Graphpad_Prism_1wayANOVA
+graphed
