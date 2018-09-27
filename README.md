@@ -1,7 +1,7 @@
 ## Common Statistical Tests in R and and Graphpad Prism: 1way-ANOVA
 
 ### Synopsis
-ANOVA is short for ANalysis Of VAriance, and tests if the difference in variance among datapoints is statistically significant.  It is [primarily designed to work with normal data](https://stats.idre.ucla.edu/other/mult-pkg/whatstat/what-is-the-difference-between-categorical-ordinal-and-interval-variables/).  If you think you may be using the wrong test, [see this useful reference](https://stats.idre.ucla.edu/other/mult-pkg/whatstat/), or the attached PDF "Categorical_Data.PDF".
+ANOVA is short for ANalysis Of VAriance, and tests if the difference in variance among datapoints is statistically significant.  It is [primarily designed to work with normal data](https://stats.idre.ucla.edu/other/mult-pkg/whatstat/what-is-the-difference-between-categorical-ordinal-and-interval-variables/).  If you think you may be using the wrong test, [see this useful reference](https://stats.idre.ucla.edu/other/mult-pkg/whatstat/), or the attached PDF "Categorical_Data.PDF" from MIT.
 
 ### Example Data: Samples A,B,C with expression values
       
